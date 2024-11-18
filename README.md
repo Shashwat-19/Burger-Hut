@@ -22,6 +22,7 @@ With a clear layout and structured design, users can effortlessly explore the co
 
 <li><b>Custom Styling:</b>
 Handcrafted CSS ensures a unique look and feel, providing an engaging interface while maintaining simplicity.</li>
+</ul>
 ### Acknowledgments
 <ul>
   <li>A special thanks to <em>ChatGPT</em> for the invaluable assistance in creating this website.</li>
