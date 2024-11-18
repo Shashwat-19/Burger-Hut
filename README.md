@@ -7,20 +7,21 @@
 </p>
 
 ### Features
-Responsive Design:
+<ul>
+  <li><b>Responsive Design:</b>
 The website dynamically adapts to all screen sizes, from mobile phones to desktop monitors, delivering a consistent and visually appealing experience.
+</li>
+<li><b>Fast and Lightweight:</b>
+Built entirely with HTML and CSS, the site avoids unnecessary dependencies, ensuring quick load times and optimal performance.</li>
 
-Fast and Lightweight:
-Built entirely with HTML and CSS, the site avoids unnecessary dependencies, ensuring quick load times and optimal performance.
+<li><b>Cross-Browser Compatibility:</b>
+Tested across multiple browsers to guarantee a uniform experience, regardless of your preferred platform.</li>
 
-Cross-Browser Compatibility:
-Tested across multiple browsers to guarantee a uniform experience, regardless of your preferred platform.
+<li><b>Intuitive Navigation:</b>
+With a clear layout and structured design, users can effortlessly explore the content, making it perfect for all audiences.</li>
 
-Intuitive Navigation:
-With a clear layout and structured design, users can effortlessly explore the content, making it perfect for all audiences.
-
-Custom Styling:
-Handcrafted CSS ensures a unique look and feel, providing an engaging interface while maintaining simplicity.
+<li><b>Custom Styling:</b>
+Handcrafted CSS ensures a unique look and feel, providing an engaging interface while maintaining simplicity.</li>
 <h3>Acknowledgments</h3>
 <ul>
   <li>A special thanks to <em>ChatGPT</em> for the invaluable assistance in creating this website.</li>
